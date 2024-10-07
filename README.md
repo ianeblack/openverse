@@ -14,8 +14,15 @@ This is just a little project I started towards the start of me learning program
     - Should include bible version setup
     - text display customization
     - should place python file in a folder and write execute in users bash
-  - Recognize when God is speaking in a verse and display as red
+  - Automated settings
+    - Should include settings for text display
+    - Should include settings for bible version
+  - Recognize when Jesus is speaking in a verse and display as red
 
 ## Supported Bible versions
 
--[x] KJV -[ ] ESV -[ ] KJV -[ ] NLT -[ ] NRSV
+- [x] KJV
+- [ ] ESV
+- [ ] KJV
+- [ ] NLT
+- [ ] NRSV
